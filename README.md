@@ -1,4 +1,4 @@
-# Machine-Learning-Projects-
+# Image-based-calculator-for-handwritten-mathematical-expression-
 
 Project Name:  Image based calculator for handwritten mathematical expression
 
